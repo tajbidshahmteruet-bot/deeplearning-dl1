@@ -1,0 +1,18 @@
+# Jupyter autosave copies (duplicates of your notebooks)
+.ipynb_checkpoints/
+
+# Python bytecode cache, regenerated automatically on import
+__pycache__/
+*.pyc
+
+# Virtual environments, in case you ever create one inside this repo
+.venv/
+venv/
+
+# Downloaded datasets (large; anyone can re-download them)
+data/
+
+# Editor and OS clutter
+.vscode/
+.idea/
+.DS_Store
